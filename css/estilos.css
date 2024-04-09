@@ -1,0 +1,17 @@
+body	{
+	background-color: #e0ccff;
+}
+
+h1	{
+	color: #002b80;
+	margin-left:25px;
+	border-bottom:3px solid #002b80;
+	width:410px;
+	font-size:3.5rem;
+}
+
+p	{
+	color:#59a6a6;
+	font-family:arial;
+	font-size:2rem;
+}
